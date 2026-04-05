@@ -1,10 +1,10 @@
 # Awesome Open Science [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
 
-[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
-[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
-[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) &nbsp; 
-[![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3) &nbsp; 
-[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) &nbsp; 
+[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp;
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp;
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) &nbsp;
+[![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3) &nbsp;
+[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) &nbsp;
 [![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
 > A curated list of tools, platforms, resources, and communities that promote **Open Science**, emphasizing transparency, reproducibility, collaboration, and open access in research and scientific practices.
@@ -63,11 +63,12 @@
 
 ## Citizen Science Platforms
 
-- **[Zooniverse](https://www.zooniverse.org/)** - A platform for crowdsourced scientific research projects.
 - **[Citizen Science Alliance](https://www.citizensciencealliance.org/)** - A network supporting citizen science initiatives.
-- **[iNaturalist](https://www.inaturalist.org/)** - A platform for crowdsourcing biodiversity observations.
 - **[Foldit](https://fold.it/)** - A game where players solve puzzles to help scientists study protein folding.
+- **[iNaturalist](https://www.inaturalist.org/)** - A platform for crowdsourcing biodiversity observations.
 - **[Planet Hunters](https://www.planethunters.org/)** - A project for discovering exoplanets through citizen science.
+- **[Yourself to Science](https://yourselftoscience.org/)** - An open-source catalog of opportunities for citizens to contribute data, biological samples, or their bodies to research.
+- **[Zooniverse](https://www.zooniverse.org/)** - A platform for crowdsourced scientific research projects.
 
 ## Educational Resources
 
