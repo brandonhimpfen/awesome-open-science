@@ -52,6 +52,7 @@
 - **[GNU Octave](https://www.gnu.org/software/octave/)** - An open-source tool for numerical computations.
 - **[OpenRefine](https://openrefine.org/)** - A tool for cleaning and transforming research data.
 - **[PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)** - A journal promoting open computational biology tools and resources.
+- **[SigmaCV](https://sigmacv.org)** - Open-source tool that builds an academic CV from open research data (ORCID, OpenAlex) and exports to PDF, LaTeX, Word or Markdown.
 
 ## Reproducibility and Collaboration Tools
 
