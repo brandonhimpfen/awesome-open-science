@@ -51,6 +51,7 @@
 - **[RStudio](https://posit.co/)** - A popular IDE for R, widely used in data science and research.
 - **[GNU Octave](https://www.gnu.org/software/octave/)** - An open-source tool for numerical computations.
 - **[OpenRefine](https://openrefine.org/)** - A tool for cleaning and transforming research data.
+- **[Peptide Calculations](https://peptidomexico.com.mx/calculadora/)** - Research-use-only, unit-aware tools for peptide reconstitution, concentration, dilution and molarity, with reproducible Python and R implementations and a browser calculator.
 - **[PLOS Computational Biology](https://journals.plos.org/ploscompbiol/)** - A journal promoting open computational biology tools and resources.
 
 ## Reproducibility and Collaboration Tools
