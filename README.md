@@ -37,6 +37,7 @@
 - **[PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/)** - A free digital repository of biomedical and life sciences literature.
 - **[Zenodo](https://zenodo.org/)** - A repository for sharing and preserving research outputs, hosted by CERN.
 - **[Directory of Open Access Journals (DOAJ)](https://doaj.org/)** - A directory of peer-reviewed, open-access journals.
+- **[JournalCompass](https://journalcompass.com/)** - A free bilingual search tool for 60,000+ SCI/SSCI journals, with CAS tiers, impact factors, review times and APCs, plus an AI journal matcher.
 
 ## Open Data Repositories
 
